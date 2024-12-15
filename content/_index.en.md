@@ -1,13 +1,13 @@
 ---
-title: ""
-date: 2022-04-25T13:57:37+08:00
-draft: false
+标题：“”
+日期：2022-04-25T13:57:37+08:00
+草稿：假
 ---
 
-<p align="center"><img src="/favicon.png" width="144" height="144"/></p>
-<h1 align="center">WearGallery</h1>
-<p align="center">May be the best open source gallery on your watch (๑•ᴗ•๑)</p>
-<p align="center">
-   <a href="https://github.com/ichenhe/wear-gallery/releases"><img src="https://img.shields.io/github/release-pre/ichenhe/wear-gallery.svg?style=flat-square"></a>
-   <a target="_blank" href="https://play.google.com/store/apps/details?id=cc.chenhe.weargallery"><img src="https://img.shields.io/badge/download-play%20store-green.svg?style=flat-square"></a>
+<p对齐="中心"><IMGsrc="/favicon.png" 宽度="144" 高度="144"/></p>
+<H1对齐="中心">WearGallery</H1>
+<p对齐="中心">可能是您所关注的最好的开源库(๑·伏·๑)</p>
+<p对齐="中心">
+   <一个href="https://github.com/ichenhe/wear-gallery/releases"><IMGsrc="https://img.shields.io/github/release-pre/ichenhe/wear-gallery.svg?style=flat-square"></一个>
+   <一个目标="_空白" href="https://play.google.com/store/apps/details?id=cc.chenhe.weargallery"><IMGsrc="https://img.shields.io/badge/download-play%20store-green.svg?style=flat-square"></一个>
 </p>
